@@ -1,0 +1,261 @@
+[07:00:00 05/28/20] [ERROR] mysql_tquery - invalid connection handle (id: 1)
+[07:00:00 05/28/20] [ERROR] mysql_tquery - invalid connection handle (id: 1)
+[07:00:00 05/28/20] [ERROR] mysql_tquery - invalid connection handle (id: 1)
+[07:00:00 05/28/20] [ERROR] mysql_tquery - invalid connection handle (id: 1)
+[07:00:00 05/28/20] [ERROR] mysql_tquery - invalid connection handle (id: 1)
+[07:00:00 05/28/20] [ERROR] mysql_tquery - invalid connection handle (id: 1)
+[07:00:00 05/28/20] [ERROR] mysql_tquery - invalid connection handle (id: 1)
+[07:00:00 05/28/20] [ERROR] mysql_tquery - invalid connection handle (id: 1)
+[07:00:00 05/28/20] [ERROR] mysql_format - invalid connection handle (id: 1)
+[07:00:00 05/28/20] [ERROR] mysql_tquery - invalid connection handle (id: 1)
+[07:00:22 05/28/20] [ERROR] mysql_format - invalid connection handle (id: 1)
+[07:00:22 05/28/20] [ERROR] mysql_tquery - invalid connection handle (id: 1)
+[07:00:24 05/28/20] [ERROR] mysql_connect - empty connection data specified
+[07:00:24 05/28/20] [ERROR] mysql_errno - invalid connection handle (id: 1)
+[07:00:24 05/28/20] [ERROR] mysql_query - invalid connection handle (id: 0)
+[07:00:24 05/28/20] [ERROR] mysql_set_charset - invalid connection handle (id: 1)
+[07:00:24 05/28/20] [ERROR] mysql_query - invalid connection handle (id: 1)
+[07:00:24 05/28/20] [WARNING] cache_get_row_count - no active cache
+[07:00:24 05/28/20] [ERROR] cache_delete - invalid connection handle (id: 1)
+[07:00:24 05/28/20] [ERROR] mysql_query - invalid connection handle (id: 1)
+[07:00:24 05/28/20] [WARNING] cache_get_row_count - no active cache
+[07:00:24 05/28/20] [ERROR] cache_delete - invalid connection handle (id: 1)
+[07:00:24 05/28/20] [ERROR] mysql_query - invalid connection handle (id: 1)
+[07:00:24 05/28/20] [WARNING] cache_get_row_count - no active cache
+[07:00:24 05/28/20] [ERROR] cache_delete - invalid connection handle (id: 1)
+[07:00:24 05/28/20] [ERROR] mysql_query - invalid connection handle (id: 1)
+[07:00:24 05/28/20] [WARNING] cache_get_row_count - no active cache
+[07:00:24 05/28/20] [ERROR] cache_delete - invalid connection handle (id: 1)
+[07:00:24 05/28/20] [ERROR] mysql_query - invalid connection handle (id: 1)
+[07:00:24 05/28/20] [WARNING] cache_get_row_count - no active cache
+[07:00:24 05/28/20] [ERROR] cache_delete - invalid connection handle (id: 1)
+[07:00:24 05/28/20] [ERROR] mysql_query - invalid connection handle (id: 1)
+[07:00:24 05/28/20] [WARNING] cache_get_row_count - no active cache
+[07:00:24 05/28/20] [ERROR] cache_delete - invalid connection handle (id: 1)
+[07:00:24 05/28/20] [ERROR] mysql_query - invalid connection handle (id: 1)
+[07:00:24 05/28/20] [WARNING] cache_get_row_count - no active cache
+[07:00:24 05/28/20] [ERROR] cache_delete - invalid connection handle (id: 1)
+[07:00:24 05/28/20] [ERROR] mysql_query - invalid connection handle (id: 1)
+[07:00:24 05/28/20] [WARNING] cache_get_row_count - no active cache
+[07:00:24 05/28/20] [ERROR] cache_delete - invalid connection handle (id: 1)
+[07:00:24 05/28/20] [ERROR] mysql_query - invalid connection handle (id: 1)
+[07:00:24 05/28/20] [WARNING] cache_get_row_count - no active cache
+[07:00:24 05/28/20] [ERROR] cache_delete - invalid connection handle (id: 1)
+[07:00:24 05/28/20] [ERROR] mysql_query - invalid connection handle (id: 1)
+[07:00:24 05/28/20] [WARNING] cache_get_row_count - no active cache
+[07:00:24 05/28/20] [ERROR] cache_delete - invalid connection handle (id: 1)
+[07:00:24 05/28/20] [ERROR] mysql_query - invalid connection handle (id: 1)
+[07:00:24 05/28/20] [WARNING] cache_get_row_count - no active cache
+[07:00:24 05/28/20] [ERROR] cache_delete - invalid connection handle (id: 1)
+[07:00:24 05/28/20] [ERROR] mysql_query - invalid connection handle (id: 1)
+[07:00:24 05/28/20] [WARNING] cache_get_row_count - no active cache
+[07:00:24 05/28/20] [ERROR] cache_delete - invalid connection handle (id: 1)
+[07:00:24 05/28/20] [ERROR] mysql_query - invalid connection handle (id: 1)
+[07:00:24 05/28/20] [WARNING] cache_get_row_count - no active cache
+[07:00:24 05/28/20] [ERROR] cache_delete - invalid connection handle (id: 1)
+[07:00:24 05/28/20] [ERROR] mysql_query - invalid connection handle (id: 1)
+[07:00:24 05/28/20] [WARNING] cache_get_row_count - no active cache
+[07:00:24 05/28/20] [ERROR] cache_delete - invalid connection handle (id: 1)
+[07:00:24 05/28/20] [ERROR] mysql_query - invalid connection handle (id: 1)
+[07:00:24 05/28/20] [WARNING] cache_get_row_count - no active cache
+[07:00:24 05/28/20] [ERROR] cache_delete - invalid connection handle (id: 1)
+[07:00:24 05/28/20] [ERROR] mysql_query - invalid connection handle (id: 1)
+[07:00:24 05/28/20] [WARNING] cache_get_row_count - no active cache
+[07:00:24 05/28/20] [ERROR] cache_delete - invalid connection handle (id: 1)
+[07:00:24 05/28/20] [ERROR] mysql_query - invalid connection handle (id: 1)
+[07:00:24 05/28/20] [WARNING] cache_get_row_count - no active cache
+[07:00:24 05/28/20] [ERROR] cache_delete - invalid connection handle (id: 1)
+[07:00:52 05/28/20] [ERROR] mysql_format - invalid connection handle (id: 1)
+[07:00:52 05/28/20] [ERROR] mysql_tquery - invalid connection handle (id: 1)
+[07:01:05 05/28/20] [ERROR] mysql_format - invalid connection handle (id: 1)
+[07:01:05 05/28/20] [ERROR] mysql_tquery - invalid connection handle (id: 1)
+[07:04:54 05/28/20] [ERROR] mysql_connect - empty connection data specified
+[07:04:54 05/28/20] [ERROR] mysql_errno - invalid connection handle (id: 1)
+[07:04:54 05/28/20] [ERROR] mysql_query - invalid connection handle (id: 1)
+[07:04:54 05/28/20] [ERROR] mysql_set_charset - invalid connection handle (id: 1)
+[07:04:54 05/28/20] [ERROR] mysql_query - invalid connection handle (id: 1)
+[07:04:54 05/28/20] [WARNING] cache_get_row_count - no active cache
+[07:04:54 05/28/20] [ERROR] cache_delete - invalid connection handle (id: 1)
+[07:04:54 05/28/20] [ERROR] mysql_query - invalid connection handle (id: 1)
+[07:04:54 05/28/20] [WARNING] cache_get_row_count - no active cache
+[07:04:54 05/28/20] [ERROR] cache_delete - invalid connection handle (id: 1)
+[07:04:54 05/28/20] [ERROR] mysql_query - invalid connection handle (id: 1)
+[07:04:54 05/28/20] [WARNING] cache_get_row_count - no active cache
+[07:04:54 05/28/20] [ERROR] cache_delete - invalid connection handle (id: 1)
+[07:04:54 05/28/20] [ERROR] mysql_query - invalid connection handle (id: 1)
+[07:04:54 05/28/20] [WARNING] cache_get_row_count - no active cache
+[07:04:54 05/28/20] [ERROR] cache_delete - invalid connection handle (id: 1)
+[07:04:54 05/28/20] [ERROR] mysql_query - invalid connection handle (id: 1)
+[07:04:54 05/28/20] [WARNING] cache_get_row_count - no active cache
+[07:04:54 05/28/20] [ERROR] cache_delete - invalid connection handle (id: 1)
+[07:04:54 05/28/20] [ERROR] mysql_query - invalid connection handle (id: 1)
+[07:04:54 05/28/20] [WARNING] cache_get_row_count - no active cache
+[07:04:54 05/28/20] [ERROR] cache_delete - invalid connection handle (id: 1)
+[07:04:54 05/28/20] [ERROR] mysql_query - invalid connection handle (id: 1)
+[07:04:54 05/28/20] [WARNING] cache_get_row_count - no active cache
+[07:04:54 05/28/20] [ERROR] cache_delete - invalid connection handle (id: 1)
+[07:04:54 05/28/20] [ERROR] mysql_query - invalid connection handle (id: 1)
+[07:04:54 05/28/20] [WARNING] cache_get_row_count - no active cache
+[07:04:54 05/28/20] [ERROR] cache_delete - invalid connection handle (id: 1)
+[07:04:54 05/28/20] [ERROR] mysql_query - invalid connection handle (id: 1)
+[07:04:54 05/28/20] [WARNING] cache_get_row_count - no active cache
+[07:04:54 05/28/20] [ERROR] cache_delete - invalid connection handle (id: 1)
+[07:04:54 05/28/20] [ERROR] mysql_query - invalid connection handle (id: 1)
+[07:04:54 05/28/20] [WARNING] cache_get_row_count - no active cache
+[07:04:54 05/28/20] [ERROR] cache_delete - invalid connection handle (id: 1)
+[07:04:54 05/28/20] [ERROR] mysql_query - invalid connection handle (id: 1)
+[07:04:54 05/28/20] [WARNING] cache_get_row_count - no active cache
+[07:04:54 05/28/20] [ERROR] cache_delete - invalid connection handle (id: 1)
+[07:04:54 05/28/20] [ERROR] mysql_query - invalid connection handle (id: 1)
+[07:04:54 05/28/20] [WARNING] cache_get_row_count - no active cache
+[07:04:54 05/28/20] [ERROR] cache_delete - invalid connection handle (id: 1)
+[07:04:54 05/28/20] [ERROR] mysql_query - invalid connection handle (id: 1)
+[07:04:54 05/28/20] [WARNING] cache_get_row_count - no active cache
+[07:04:54 05/28/20] [ERROR] cache_delete - invalid connection handle (id: 1)
+[07:04:54 05/28/20] [ERROR] mysql_query - invalid connection handle (id: 1)
+[07:04:54 05/28/20] [WARNING] cache_get_row_count - no active cache
+[07:04:54 05/28/20] [ERROR] cache_delete - invalid connection handle (id: 1)
+[07:04:54 05/28/20] [ERROR] mysql_query - invalid connection handle (id: 1)
+[07:04:54 05/28/20] [WARNING] cache_get_row_count - no active cache
+[07:04:54 05/28/20] [ERROR] cache_delete - invalid connection handle (id: 1)
+[07:04:54 05/28/20] [ERROR] mysql_query - invalid connection handle (id: 1)
+[07:04:54 05/28/20] [WARNING] cache_get_row_count - no active cache
+[07:04:54 05/28/20] [ERROR] cache_delete - invalid connection handle (id: 1)
+[07:04:54 05/28/20] [ERROR] mysql_query - invalid connection handle (id: 1)
+[07:04:54 05/28/20] [WARNING] cache_get_row_count - no active cache
+[07:04:54 05/28/20] [ERROR] cache_delete - invalid connection handle (id: 1)
+[07:05:47 05/28/20] [ERROR] mysql_format - invalid connection handle (id: 1)
+[07:05:47 05/28/20] [ERROR] mysql_tquery - invalid connection handle (id: 1)
+[07:05:55 05/28/20] [ERROR] mysql_format - invalid connection handle (id: 1)
+[07:05:55 05/28/20] [ERROR] mysql_tquery - invalid connection handle (id: 1)
+[07:05:56 05/28/20] [ERROR] mysql_format - invalid connection handle (id: 1)
+[07:05:56 05/28/20] [ERROR] mysql_tquery - invalid connection handle (id: 1)
+[07:05:57 05/28/20] [ERROR] mysql_format - invalid connection handle (id: 1)
+[07:05:57 05/28/20] [ERROR] mysql_tquery - invalid connection handle (id: 1)
+[07:21:33 05/28/20] [ERROR] CMySQLQuery::Execute[] - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `Name` = 'John_Angelvame' LIMIT 1' at line 1 (Query: "UPDATE `admin` SET `kick` = '0', `ban` = '0', `mute` = '0', `pm` = '0', `warn` = '0', `jail` = '0', WHERE `Name` = 'John_Angelvame' LIMIT 1")
+[07:42:03 05/28/20] [ERROR] CMySQLQuery::Execute[] - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `Name` = 'John_Angelvame' LIMIT 1' at line 1 (Query: "UPDATE `admin` SET `kick` = '0', `ban` = '0', `mute` = '0', `pm` = '0', `warn` = '0', `jail` = '0', WHERE `Name` = 'John_Angelvame' LIMIT 1")
+[07:49:55 05/28/20] [ERROR] CMySQLQuery::Execute[] - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `Name` = 'John_Angelvame' LIMIT 1' at line 1 (Query: "UPDATE `admin` SET `kick` = '0', `ban` = '0', `mute` = '0', `pm` = '0', `warn` = '0', `jail` = '0', WHERE `Name` = 'John_Angelvame' LIMIT 1")
+[08:06:30 05/28/20] [ERROR] CMySQLQuery::Execute[] - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `Name` = 'John_Angelvame' LIMIT 1' at line 1 (Query: "UPDATE `admin` SET `kick` = '0', `ban` = '0', `mute` = '0', `pm` = '0', `warn` = '0', `jail` = '0', WHERE `Name` = 'John_Angelvame' LIMIT 1")
+[08:09:10 05/28/20] [ERROR] CMySQLQuery::Execute[] - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `Name` = 'John_Angelvame' LIMIT 1' at line 1 (Query: "UPDATE `admin` SET `kick` = '0', `ban` = '0', `mute` = '0', `pm` = '0', `warn` = '0', `jail` = '0', WHERE `Name` = 'John_Angelvame' LIMIT 1")
+[10:01:03 05/28/20] [ERROR] CMySQLQuery::Execute[] - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `Name` = 'John_Angelvame' LIMIT 1' at line 1 (Query: "UPDATE `admin` SET `kick` = '0', `ban` = '0', `mute` = '0', `pm` = '0', `warn` = '0', `jail` = '0', WHERE `Name` = 'John_Angelvame' LIMIT 1")
+[10:08:31 05/28/20] [ERROR] CMySQLQuery::Execute[] - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `Name` = 'John_Angelvame' LIMIT 1' at line 1 (Query: "UPDATE `admin` SET `kick` = '0', `ban` = '0', `mute` = '0', `pm` = '0', `warn` = '0', `jail` = '0', WHERE `Name` = 'John_Angelvame' LIMIT 1")
+[10:10:26 05/28/20] [ERROR] CMySQLQuery::Execute[] - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `Name` = 'John_Angelvame' LIMIT 1' at line 1 (Query: "UPDATE `admin` SET `kick` = '0', `ban` = '0', `mute` = '0', `pm` = '0', `warn` = '0', `jail` = '0', WHERE `Name` = 'John_Angelvame' LIMIT 1")
+[10:14:15 05/28/20] [ERROR] CMySQLQuery::Execute[] - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `Name` = 'John_Angelvame' LIMIT 1' at line 1 (Query: "UPDATE `admin` SET `kick` = '0', `ban` = '0', `mute` = '0', `pm` = '0', `warn` = '0', `jail` = '0', WHERE `Name` = 'John_Angelvame' LIMIT 1")
+[10:19:46 05/28/20] [ERROR] CMySQLQuery::Execute[] - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `Name` = 'John_Angelvame' LIMIT 1' at line 1 (Query: "UPDATE `admin` SET `kick` = '0', `ban` = '0', `mute` = '0', `pm` = '0', `warn` = '0', `jail` = '0', WHERE `Name` = 'John_Angelvame' LIMIT 1")
+[10:26:46 05/28/20] [ERROR] CMySQLQuery::Execute[] - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `Name` = 'John_Angelvame' LIMIT 1' at line 1 (Query: "UPDATE `admin` SET `kick` = '0', `ban` = '0', `mute` = '0', `pm` = '0', `warn` = '0', `jail` = '0', WHERE `Name` = 'John_Angelvame' LIMIT 1")
+[10:34:13 05/28/20] [ERROR] CMySQLQuery::Execute[] - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `Name` = 'John_Angelvame' LIMIT 1' at line 1 (Query: "UPDATE `admin` SET `kick` = '0', `ban` = '0', `mute` = '0', `pm` = '0', `warn` = '0', `jail` = '0', WHERE `Name` = 'John_Angelvame' LIMIT 1")
+[10:35:43 05/28/20] [ERROR] CMySQLQuery::Execute[] - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `Name` = 'John_Angelvame' LIMIT 1' at line 1 (Query: "UPDATE `admin` SET `kick` = '0', `ban` = '0', `mute` = '0', `pm` = '0', `warn` = '0', `jail` = '0', WHERE `Name` = 'John_Angelvame' LIMIT 1")
+[10:37:48 05/28/20] [ERROR] CMySQLQuery::Execute[] - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `Name` = 'John_Angelvame' LIMIT 1' at line 1 (Query: "UPDATE `admin` SET `kick` = '0', `ban` = '0', `mute` = '0', `pm` = '0', `warn` = '0', `jail` = '0', WHERE `Name` = 'John_Angelvame' LIMIT 1")
+[10:46:22 05/28/20] [ERROR] CMySQLQuery::Execute[] - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `Name` = 'John_Angelvame' LIMIT 1' at line 1 (Query: "UPDATE `admin` SET `kick` = '0', `ban` = '0', `mute` = '0', `pm` = '0', `warn` = '0', `jail` = '0', WHERE `Name` = 'John_Angelvame' LIMIT 1")
+[12:33:06 05/28/20] [ERROR] CMySQLQuery::Execute[] - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `Name` = 'John_Angelvame' LIMIT 1' at line 1 (Query: "UPDATE `admin` SET `kick` = '0', `ban` = '0', `mute` = '0', `pm` = '0', `warn` = '0', `jail` = '0', WHERE `Name` = 'John_Angelvame' LIMIT 1")
+[13:21:12 05/28/20] [ERROR] CMySQLQuery::Execute[] - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `Name` = 'John_Angelvame' LIMIT 1' at line 1 (Query: "UPDATE `admin` SET `kick` = '0', `ban` = '0', `mute` = '0', `pm` = '0', `warn` = '0', `jail` = '0', WHERE `Name` = 'John_Angelvame' LIMIT 1")
+[13:36:55 05/28/20] [ERROR] CMySQLQuery::Execute[] - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `Name` = 'John_Angelvame' LIMIT 1' at line 1 (Query: "UPDATE `admin` SET `kick` = '0', `ban` = '0', `mute` = '0', `pm` = '0', `warn` = '0', `jail` = '0', WHERE `Name` = 'John_Angelvame' LIMIT 1")
+[15:51:43 05/28/20] [ERROR] CMySQLQuery::Execute[] - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `Name` = 'Samvel_Dumanan' LIMIT 1' at line 1 (Query: "UPDATE `admin` SET `kick` = '0', `ban` = '0', `mute` = '0', `pm` = '0', `warn` = '0', `jail` = '0', WHERE `Name` = 'Samvel_Dumanan' LIMIT 1")
+[16:04:50 05/28/20] [ERROR] CMySQLQuery::Execute[] - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `Name` = 'Dddo_Zizzo' LIMIT 1' at line 1 (Query: "UPDATE `admin` SET `kick` = '0', `ban` = '0', `mute` = '0', `pm` = '0', `warn` = '0', `jail` = '1', WHERE `Name` = 'Dddo_Zizzo' LIMIT 1")
+[16:07:54 05/28/20] [ERROR] CMySQLQuery::Execute[] - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `Name` = 'Dddo_Zizzo' LIMIT 1' at line 1 (Query: "UPDATE `admin` SET `kick` = '0', `ban` = '0', `mute` = '0', `pm` = '0', `warn` = '0', `jail` = '0', WHERE `Name` = 'Dddo_Zizzo' LIMIT 1")
+[16:17:59 05/28/20] [ERROR] CMySQLQuery::Execute[] - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `Name` = 'Dddo_Zizzo' LIMIT 1' at line 1 (Query: "UPDATE `admin` SET `kick` = '0', `ban` = '0', `mute` = '0', `pm` = '0', `warn` = '0', `jail` = '0', WHERE `Name` = 'Dddo_Zizzo' LIMIT 1")
+[16:22:10 05/28/20] [ERROR] CMySQLQuery::Execute[] - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `Name` = 'Dddo_Zizzo' LIMIT 1' at line 1 (Query: "UPDATE `admin` SET `kick` = '0', `ban` = '0', `mute` = '0', `pm` = '0', `warn` = '0', `jail` = '0', WHERE `Name` = 'Dddo_Zizzo' LIMIT 1")
+[16:23:18 05/28/20] [ERROR] CMySQLQuery::Execute[] - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `Name` = 'John_Angelvame' LIMIT 1' at line 1 (Query: "UPDATE `admin` SET `kick` = '0', `ban` = '0', `mute` = '0', `pm` = '1', `warn` = '0', `jail` = '0', WHERE `Name` = 'John_Angelvame' LIMIT 1")
+[16:25:08 05/28/20] [ERROR] CMySQLQuery::Execute[] - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `Name` = 'Samvel_Dumanan' LIMIT 1' at line 1 (Query: "UPDATE `admin` SET `kick` = '2', `ban` = '0', `mute` = '0', `pm` = '0', `warn` = '0', `jail` = '0', WHERE `Name` = 'Samvel_Dumanan' LIMIT 1")
+[16:33:27 05/28/20] [ERROR] CMySQLQuery::Execute[] - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `Name` = 'Dddo_Zizzo' LIMIT 1' at line 1 (Query: "UPDATE `admin` SET `kick` = '0', `ban` = '0', `mute` = '0', `pm` = '0', `warn` = '0', `jail` = '1', WHERE `Name` = 'Dddo_Zizzo' LIMIT 1")
+[17:36:55 05/28/20] [ERROR] CMySQLQuery::Execute[] - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `Name` = 'John_Angelvame' LIMIT 1' at line 1 (Query: "UPDATE `admin` SET `kick` = '0', `ban` = '0', `mute` = '0', `pm` = '0', `warn` = '0', `jail` = '0', WHERE `Name` = 'John_Angelvame' LIMIT 1")
+[17:41:15 05/28/20] [ERROR] CMySQLQuery::Execute[] - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `Name` = 'John_Angelvame' LIMIT 1' at line 1 (Query: "UPDATE `admin` SET `kick` = '0', `ban` = '0', `mute` = '0', `pm` = '0', `warn` = '0', `jail` = '0', WHERE `Name` = 'John_Angelvame' LIMIT 1")
+[17:50:24 05/28/20] [ERROR] CMySQLQuery::Execute[] - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `Name` = 'John_Angelvame' LIMIT 1' at line 1 (Query: "UPDATE `admin` SET `kick` = '0', `ban` = '0', `mute` = '0', `pm` = '0', `warn` = '0', `jail` = '0', WHERE `Name` = 'John_Angelvame' LIMIT 1")
+[17:58:22 05/28/20] [ERROR] CMySQLQuery::Execute[] - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `Name` = 'John_Angelvame' LIMIT 1' at line 1 (Query: "UPDATE `admin` SET `kick` = '0', `ban` = '0', `mute` = '0', `pm` = '0', `warn` = '0', `jail` = '0', WHERE `Name` = 'John_Angelvame' LIMIT 1")
+[18:02:11 05/28/20] [ERROR] CMySQLQuery::Execute[] - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `Name` = 'John_Angelvame' LIMIT 1' at line 1 (Query: "UPDATE `admin` SET `kick` = '0', `ban` = '0', `mute` = '0', `pm` = '0', `warn` = '0', `jail` = '0', WHERE `Name` = 'John_Angelvame' LIMIT 1")
+[18:05:20 05/28/20] [ERROR] CMySQLQuery::Execute[] - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `Name` = 'John_Angelvame' LIMIT 1' at line 1 (Query: "UPDATE `admin` SET `kick` = '0', `ban` = '0', `mute` = '0', `pm` = '0', `warn` = '0', `jail` = '0', WHERE `Name` = 'John_Angelvame' LIMIT 1")
+[22:00:10 05/28/20] [ERROR] CMySQLQuery::Execute[] - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `Name` = 'John_Angelvame' LIMIT 1' at line 1 (Query: "UPDATE `admin` SET `kick` = '0', `ban` = '0', `mute` = '0', `pm` = '0', `warn` = '0', `jail` = '0', WHERE `Name` = 'John_Angelvame' LIMIT 1")
+[05:00:09 05/29/20] [ERROR] CMySQLQuery::Execute - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '{D00E51}Налоги / Цены:
+{D00E51}Проезд в такси: {FF8282}10$ (1км)
+{D00E51}Продажа' at line 1 (Query: "{D00E51}Налоги / Цены:
+{D00E51}Проезд в такси: {FF8282}10$ (1км)
+{D00E51}Продажа бизнеса: {FF8282}50 процентов
+{D00E51}Зарплата: {FF8282}1000$
+
+{D00E51}В казне: {FF8282}44432997$")
+[05:00:09 05/29/20] [ERROR] CMySQLQuery::Execute - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '{D00E51}Налоги / Цены:
+{D00E51}Проезд в такси: {FF8282}10$ (1км)
+{D00E51}Продажа' at line 1 (Query: "{D00E51}Налоги / Цены:
+{D00E51}Проезд в такси: {FF8282}10$ (1км)
+{D00E51}Продажа бизнеса: {FF8282}50 процентов
+{D00E51}Зарплата: {FF8282}1000$
+
+{D00E51}В казне: {FF8282}44432997$")
+[08:23:42 05/29/20] [ERROR] CMySQLQuery::Execute[] - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `Name` = 'John_Angelvame' LIMIT 1' at line 1 (Query: "UPDATE `admin` SET `kick` = '0', `ban` = '0', `mute` = '0', `pm` = '0', `warn` = '0', `jail` = '0', WHERE `Name` = 'John_Angelvame' LIMIT 1")
+[08:39:33 05/29/20] [ERROR] CMySQLQuery::Execute[] - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `Name` = 'John_Angelvame' LIMIT 1' at line 1 (Query: "UPDATE `admin` SET `kick` = '0', `ban` = '0', `mute` = '0', `pm` = '0', `warn` = '0', `jail` = '0', WHERE `Name` = 'John_Angelvame' LIMIT 1")
+[08:58:54 05/29/20] [ERROR] CMySQLQuery::Execute[] - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `Name` = 'John_Angelvame' LIMIT 1' at line 1 (Query: "UPDATE `admin` SET `kick` = '0', `ban` = '0', `mute` = '0', `pm` = '0', `warn` = '0', `jail` = '0', WHERE `Name` = 'John_Angelvame' LIMIT 1")
+[09:05:12 05/29/20] [ERROR] CMySQLQuery::Execute[] - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `Name` = 'John_Angelvame' LIMIT 1' at line 1 (Query: "UPDATE `admin` SET `kick` = '0', `ban` = '0', `mute` = '0', `pm` = '0', `warn` = '0', `jail` = '0', WHERE `Name` = 'John_Angelvame' LIMIT 1")
+[09:28:31 05/29/20] [ERROR] CMySQLQuery::Execute[] - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `Name` = 'John_Angelvame' LIMIT 1' at line 1 (Query: "UPDATE `admin` SET `kick` = '0', `ban` = '0', `mute` = '0', `pm` = '0', `warn` = '0', `jail` = '0', WHERE `Name` = 'John_Angelvame' LIMIT 1")
+[09:36:40 05/29/20] [ERROR] CMySQLQuery::Execute[] - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `Name` = 'John_Angelvame' LIMIT 1' at line 1 (Query: "UPDATE `admin` SET `kick` = '0', `ban` = '0', `mute` = '0', `pm` = '1', `warn` = '0', `jail` = '0', WHERE `Name` = 'John_Angelvame' LIMIT 1")
+[09:56:54 05/29/20] [ERROR] CMySQLQuery::Execute[] - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `Name` = 'John_Angelvame' LIMIT 1' at line 1 (Query: "UPDATE `admin` SET `kick` = '0', `ban` = '0', `mute` = '0', `pm` = '0', `warn` = '0', `jail` = '0', WHERE `Name` = 'John_Angelvame' LIMIT 1")
+[10:02:40 05/29/20] [ERROR] CMySQLQuery::Execute[] - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `Name` = 'John_Angelvame' LIMIT 1' at line 1 (Query: "UPDATE `admin` SET `kick` = '0', `ban` = '0', `mute` = '0', `pm` = '0', `warn` = '0', `jail` = '0', WHERE `Name` = 'John_Angelvame' LIMIT 1")
+[10:18:11 05/29/20] [ERROR] CMySQLQuery::Execute[] - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `Name` = 'John_Angelvame' LIMIT 1' at line 1 (Query: "UPDATE `admin` SET `kick` = '0', `ban` = '0', `mute` = '0', `pm` = '0', `warn` = '0', `jail` = '0', WHERE `Name` = 'John_Angelvame' LIMIT 1")
+[10:38:43 05/29/20] [ERROR] CMySQLQuery::Execute[] - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `Name` = 'John_Angelvame' LIMIT 1' at line 1 (Query: "UPDATE `admin` SET `kick` = '0', `ban` = '0', `mute` = '0', `pm` = '0', `warn` = '0', `jail` = '0', WHERE `Name` = 'John_Angelvame' LIMIT 1")
+[10:45:19 05/29/20] [ERROR] CMySQLQuery::Execute[] - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `Name` = 'John_Angelvame' LIMIT 1' at line 1 (Query: "UPDATE `admin` SET `kick` = '0', `ban` = '0', `mute` = '0', `pm` = '0', `warn` = '0', `jail` = '0', WHERE `Name` = 'John_Angelvame' LIMIT 1")
+[12:12:51 05/29/20] [WARNING] CMySQLResult::GetRowDataByName - field not found ("pSupreme") (Query: "SELECT * FROM `accounts` WHERE `id` = '29' AND `pKey` = 'xuyxuy123'")
+[12:12:51 05/29/20] [ERROR] cache_get_field_content_int - invalid datatype
+[12:19:03 05/29/20] [ERROR] CMySQLQuery::Execute[] - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `Name` = 'John_Angelvame' LIMIT 1' at line 1 (Query: "UPDATE `admin` SET `kick` = '0', `ban` = '0', `mute` = '0', `pm` = '0', `warn` = '0', `jail` = '0', WHERE `Name` = 'John_Angelvame' LIMIT 1")
+[12:20:36 05/29/20] [WARNING] CMySQLResult::GetRowDataByName - field not found ("pSupreme") (Query: "SELECT * FROM `accounts` WHERE `id` = '29' AND `pKey` = 'xuyxuy123'")
+[12:20:36 05/29/20] [ERROR] cache_get_field_content_int - invalid datatype
+[12:23:13 05/29/20] [ERROR] CMySQLQuery::Execute[] - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `Name` = 'John_Angelvame' LIMIT 1' at line 1 (Query: "UPDATE `admin` SET `kick` = '0', `ban` = '0', `mute` = '0', `pm` = '0', `warn` = '0', `jail` = '0', WHERE `Name` = 'John_Angelvame' LIMIT 1")
+[12:30:13 05/29/20] [WARNING] CMySQLResult::GetRowDataByName - field not found ("pSupreme") (Query: "SELECT * FROM `accounts` WHERE `id` = '29' AND `pKey` = 'xuyxuy123'")
+[12:30:13 05/29/20] [ERROR] cache_get_field_content_int - invalid datatype
+[12:34:02 05/29/20] [ERROR] CMySQLQuery::Execute[] - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `Name` = 'John_Angelvame' LIMIT 1' at line 1 (Query: "UPDATE `admin` SET `kick` = '0', `ban` = '0', `mute` = '0', `pm` = '0', `warn` = '0', `jail` = '0', WHERE `Name` = 'John_Angelvame' LIMIT 1")
+[12:46:47 05/29/20] [WARNING] CMySQLResult::GetRowDataByName - field not found ("pSupreme") (Query: "SELECT * FROM `accounts` WHERE `id` = '29' AND `pKey` = 'xuyxuy123'")
+[12:46:47 05/29/20] [ERROR] cache_get_field_content_int - invalid datatype
+[12:49:50 05/29/20] [ERROR] CMySQLQuery::Execute[] - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `Name` = 'John_Angelvame' LIMIT 1' at line 1 (Query: "UPDATE `admin` SET `kick` = '0', `ban` = '0', `mute` = '0', `pm` = '0', `warn` = '0', `jail` = '0', WHERE `Name` = 'John_Angelvame' LIMIT 1")
+[13:06:09 05/29/20] [WARNING] CMySQLResult::GetRowDataByName - field not found ("pSupreme") (Query: "SELECT * FROM `accounts` WHERE `id` = '29' AND `pKey` = 'xuyxuy123'")
+[13:06:09 05/29/20] [ERROR] cache_get_field_content_int - invalid datatype
+[13:11:04 05/29/20] [ERROR] CMySQLQuery::Execute[] - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `Name` = 'John_Angelvame' LIMIT 1' at line 1 (Query: "UPDATE `admin` SET `kick` = '0', `ban` = '0', `mute` = '0', `pm` = '0', `warn` = '0', `jail` = '0', WHERE `Name` = 'John_Angelvame' LIMIT 1")
+[13:19:33 05/29/20] [ERROR] CMySQLQuery::Execute[] - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `Name` = 'John_Angelvame' LIMIT 1' at line 1 (Query: "UPDATE `admin` SET `kick` = '0', `ban` = '0', `mute` = '0', `pm` = '0', `warn` = '0', `jail` = '0', WHERE `Name` = 'John_Angelvame' LIMIT 1")
+[13:41:45 05/29/20] [ERROR] CMySQLQuery::Execute[] - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `Name` = 'Semen_Pavlov' LIMIT 1' at line 1 (Query: "UPDATE `admin` SET `kick` = '0', `ban` = '0', `mute` = '0', `pm` = '0', `warn` = '0', `jail` = '0', WHERE `Name` = 'Semen_Pavlov' LIMIT 1")
+[13:42:36 05/29/20] [ERROR] CMySQLQuery::Execute[] - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `Name` = 'John_Angelvame' LIMIT 1' at line 1 (Query: "UPDATE `admin` SET `kick` = '0', `ban` = '0', `mute` = '0', `pm` = '0', `warn` = '0', `jail` = '0', WHERE `Name` = 'John_Angelvame' LIMIT 1")
+[13:52:51 05/29/20] [ERROR] CMySQLQuery::Execute[] - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `Name` = 'John_Angelvame' LIMIT 1' at line 1 (Query: "UPDATE `admin` SET `kick` = '0', `ban` = '0', `mute` = '0', `pm` = '0', `warn` = '0', `jail` = '0', WHERE `Name` = 'John_Angelvame' LIMIT 1")
+[15:49:16 05/29/20] [ERROR] CMySQLQuery::Execute[] - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `Name` = 'John_Angelvame' LIMIT 1' at line 1 (Query: "UPDATE `admin` SET `kick` = '0', `ban` = '0', `mute` = '0', `pm` = '0', `warn` = '0', `jail` = '0', WHERE `Name` = 'John_Angelvame' LIMIT 1")
+[19:26:10 05/29/20] [ERROR] CMySQLQuery::Execute[] - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `Name` = 'Samvel_Dumanan' LIMIT 1' at line 1 (Query: "UPDATE `admin` SET `kick` = '1', `ban` = '0', `mute` = '0', `pm` = '0', `warn` = '0', `jail` = '0', WHERE `Name` = 'Samvel_Dumanan' LIMIT 1")
+[19:50:13 05/29/20] [ERROR] CMySQLQuery::Execute[] - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `Name` = 'John_Angelvame' LIMIT 1' at line 1 (Query: "UPDATE `admin` SET `kick` = '0', `ban` = '0', `mute` = '0', `pm` = '0', `warn` = '0', `jail` = '0', WHERE `Name` = 'John_Angelvame' LIMIT 1")
+[19:53:39 05/29/20] [ERROR] CMySQLQuery::Execute[] - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `Name` = 'John_Angelvame' LIMIT 1' at line 1 (Query: "UPDATE `admin` SET `kick` = '0', `ban` = '0', `mute` = '0', `pm` = '0', `warn` = '0', `jail` = '0', WHERE `Name` = 'John_Angelvame' LIMIT 1")
+[19:59:36 05/29/20] [ERROR] CMySQLQuery::Execute[] - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `Name` = 'John_Angelvame' LIMIT 1' at line 1 (Query: "UPDATE `admin` SET `kick` = '0', `ban` = '0', `mute` = '0', `pm` = '0', `warn` = '0', `jail` = '0', WHERE `Name` = 'John_Angelvame' LIMIT 1")
+[20:53:07 05/29/20] [ERROR] CMySQLQuery::Execute[] - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `Name` = 'John_Angelvame' LIMIT 1' at line 1 (Query: "UPDATE `admin` SET `kick` = '0', `ban` = '0', `mute` = '0', `pm` = '0', `warn` = '0', `jail` = '0', WHERE `Name` = 'John_Angelvame' LIMIT 1")
+[21:29:40 05/29/20] [ERROR] CMySQLQuery::Execute[] - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `Name` = 'John_Angelvame' LIMIT 1' at line 1 (Query: "UPDATE `admin` SET `kick` = '0', `ban` = '0', `mute` = '0', `pm` = '0', `warn` = '0', `jail` = '0', WHERE `Name` = 'John_Angelvame' LIMIT 1")
+[05:00:08 05/30/20] [ERROR] CMySQLQuery::Execute - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '{D00E51}Налоги / Цены:
+{D00E51}Проезд в такси: {FF8282}10$ (1км)
+{D00E51}Продажа' at line 1 (Query: "{D00E51}Налоги / Цены:
+{D00E51}Проезд в такси: {FF8282}10$ (1км)
+{D00E51}Продажа бизнеса: {FF8282}50 процентов
+{D00E51}Зарплата: {FF8282}1000$
+
+{D00E51}В казне: {FF8282}44432997$")
+[05:00:08 05/30/20] [ERROR] CMySQLQuery::Execute - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '{D00E51}Налоги / Цены:
+{D00E51}Проезд в такси: {FF8282}10$ (1км)
+{D00E51}Продажа' at line 1 (Query: "{D00E51}Налоги / Цены:
+{D00E51}Проезд в такси: {FF8282}10$ (1км)
+{D00E51}Продажа бизнеса: {FF8282}50 процентов
+{D00E51}Зарплата: {FF8282}1000$
+
+{D00E51}В казне: {FF8282}44432997$")
+[08:38:33 05/30/20] [ERROR] CMySQLQuery::Execute[] - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `Name` = 'John_Angelvame' LIMIT 1' at line 1 (Query: "UPDATE `admin` SET `kick` = '0', `ban` = '0', `mute` = '0', `pm` = '0', `warn` = '0', `jail` = '0', WHERE `Name` = 'John_Angelvame' LIMIT 1")
+[09:21:00 05/30/20] [ERROR] CMySQLQuery::Execute[] - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `Name` = 'John_Angelvame' LIMIT 1' at line 1 (Query: "UPDATE `admin` SET `kick` = '0', `ban` = '0', `mute` = '0', `pm` = '0', `warn` = '0', `jail` = '0', WHERE `Name` = 'John_Angelvame' LIMIT 1")
+[09:21:10 05/30/20] [ERROR] CMySQLQuery::Execute[] - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `Name` = 'John_Angelvamus' LIMIT 1' at line 1 (Query: "UPDATE `admin` SET `kick` = '0', `ban` = '0', `mute` = '0', `pm` = '0', `warn` = '0', `jail` = '0', WHERE `Name` = 'John_Angelvamus' LIMIT 1")
+[09:48:56 05/30/20] [ERROR] CMySQLQuery::Execute[] - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `Name` = 'Kot_Joker' LIMIT 1' at line 1 (Query: "UPDATE `admin` SET `kick` = '0', `ban` = '0', `mute` = '0', `pm` = '0', `warn` = '0', `jail` = '0', WHERE `Name` = 'Kot_Joker' LIMIT 1")
+[09:50:09 05/30/20] [ERROR] CMySQLQuery::Execute[] - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `Name` = 'John_Angelvamus' LIMIT 1' at line 1 (Query: "UPDATE `admin` SET `kick` = '0', `ban` = '0', `mute` = '0', `pm` = '0', `warn` = '0', `jail` = '0', WHERE `Name` = 'John_Angelvamus' LIMIT 1")
+[09:50:20 05/30/20] [ERROR] CMySQLQuery::Execute[] - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `Name` = 'John_Angelvame' LIMIT 1' at line 1 (Query: "UPDATE `admin` SET `kick` = '0', `ban` = '0', `mute` = '0', `pm` = '0', `warn` = '0', `jail` = '0', WHERE `Name` = 'John_Angelvame' LIMIT 1")
+[09:55:26 05/30/20] [ERROR] CMySQLQuery::Execute[] - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `Name` = 'John_Angelvame' LIMIT 1' at line 1 (Query: "UPDATE `admin` SET `kick` = '0', `ban` = '0', `mute` = '0', `pm` = '0', `warn` = '0', `jail` = '0', WHERE `Name` = 'John_Angelvame' LIMIT 1")
+[10:17:52 05/30/20] [ERROR] CMySQLQuery::Execute[] - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `Name` = 'John_Angelvame' LIMIT 1' at line 1 (Query: "UPDATE `admin` SET `kick` = '0', `ban` = '0', `mute` = '0', `pm` = '0', `warn` = '0', `jail` = '0', WHERE `Name` = 'John_Angelvame' LIMIT 1")
+[10:18:02 05/30/20] [ERROR] CMySQLQuery::Execute[] - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `Name` = 'John_Angelvamus' LIMIT 1' at line 1 (Query: "UPDATE `admin` SET `kick` = '0', `ban` = '0', `mute` = '0', `pm` = '0', `warn` = '0', `jail` = '0', WHERE `Name` = 'John_Angelvamus' LIMIT 1")
+[05:00:08 05/31/20] [ERROR] CMySQLQuery::Execute - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '{D00E51}Налоги / Цены:
+{D00E51}Проезд в такси: {FF8282}10$ (1км)
+{D00E51}Продажа' at line 1 (Query: "{D00E51}Налоги / Цены:
+{D00E51}Проезд в такси: {FF8282}10$ (1км)
+{D00E51}Продажа бизнеса: {FF8282}50 процентов
+{D00E51}Зарплата: {FF8282}1000$
+
+{D00E51}В казне: {FF8282}44432997$")
+[05:00:08 05/31/20] [ERROR] CMySQLQuery::Execute - (error #1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '{D00E51}Налоги / Цены:
+{D00E51}Проезд в такси: {FF8282}10$ (1км)
+{D00E51}Продажа' at line 1 (Query: "{D00E51}Налоги / Цены:
+{D00E51}Проезд в такси: {FF8282}10$ (1км)
+{D00E51}Продажа бизнеса: {FF8282}50 процентов
+{D00E51}Зарплата: {FF8282}1000$
+
+{D00E51}В казне: {FF8282}44432997$")
